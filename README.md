@@ -10,7 +10,7 @@
 - Mã lớp: SE355.O11.PMCL
 - Năm học: 2023-2024
 - Giảng viên hướng dẫn: TS. Nguyễn Tấn Trần Minh Khang - khangnttm@uit.edu.vn
-                        Ths. Quan Chí Khánh An - anqck@uit.edu.vn 
+\n                          Ths. Quan Chí Khánh An - anqck@uit.edu.vn 
 
 ## Thành viên nhóm 
 
